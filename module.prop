@@ -1,6 +1,7 @@
 id=FireHD8ModdedFramework
-name=FireHD8ModdedFramework
+name=FireHD8 Modded framework-res.apk
 version=v1
 versionCode=1
 author=onokatio
 description=Modded framework-res.apk for Amazon Fire HD 8 2018.
+minMagisk=17000

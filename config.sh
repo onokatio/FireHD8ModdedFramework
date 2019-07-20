@@ -23,6 +23,7 @@
 # any files for you. Most modules would NOT want
 # to set this flag to true
 SKIPMOUNT=false
+AUTOMOUNT=true
 
 # Set to true if you need to load system.prop
 PROPFILE=false
